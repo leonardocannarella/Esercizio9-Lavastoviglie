@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Lavastoviglie
+comment0.text=\r\n\ Lavastoviglie\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 06/11/2019)\r\n
+comment1.params=marca
+comment1.target=Lavastoviglie(java.lang.String)
+comment2.params=m
+comment2.target=void\ setMarca(java.lang.String)
+comment3.params=
+comment3.target=void\ accendi()
+comment4.params=
+comment4.target=void\ spegni()
+comment5.params=a
+comment5.target=java.lang.String\ riempiSerbDet(Detersivo)
+comment6.params=tipo
+comment6.target=java.lang.String\ lavaggio(java.lang.String)
+comment7.params=
+comment7.target=void\ fineCiclo()
+comment8.params=
+comment8.target=java.lang.String\ aggiungiSale()
+numComments=9
